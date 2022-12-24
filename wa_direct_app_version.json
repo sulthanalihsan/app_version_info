@@ -1,6 +1,6 @@
 {
 "android": {
-"version": "1.0.1",
+"version": "1.0.0",
 "toastMsg": "Tersedia versi terbaru APIK",
 "dialogMsg": "Tersedia versi terbaru APIK, Silahkan lakukan pembaruan aplikasi",
 "forceUpdate": false,

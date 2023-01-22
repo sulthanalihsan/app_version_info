@@ -1,0 +1,16 @@
+{
+"android": {
+"version": "1.0.0",
+"toastMsg": "Tersedia versi terbaru",
+"dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
+"forceUpdate": false,
+"appUrl": "https://play.google.com/store/apps/details?id=id.go.kalselprov.apik"
+},
+"ios": {
+"version": "1.0.0",
+"toastMsg": "Tersedia versi terbaru",
+"dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
+"forceUpdate": false,
+"appUrl": "https://apps.apple.com/id/app/apik-kinerja-kalsel/id1607429999"
+}
+}

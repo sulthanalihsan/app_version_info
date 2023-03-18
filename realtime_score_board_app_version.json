@@ -4,7 +4,7 @@
 "toastMsg": "Tersedia versi terbaru",
 "dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
 "forceUpdate": true,
-"appUrl": "https://play.google.com/store/apps/details?id=id.go.kalselprov.apik"
+"appUrl": "https://play.google.com/store/apps/details?id=dev.sulthanalihsan.rsb"
 },
 "ios": {
 "version": "1.0.0",

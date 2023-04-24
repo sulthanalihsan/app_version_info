@@ -1,9 +1,9 @@
 {
 "android": {
-"version": "1.0.2",
+"version": "1.0.3",
 "toastMsg": "Tersedia versi terbaru",
 "dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
-"forceUpdate": false,
+"forceUpdate": true,
 "appUrl": "https://play.google.com/store/apps/details?id=dev.sulthanalihsan.rsb"
 },
 "ios": {

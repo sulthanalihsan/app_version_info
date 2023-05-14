@@ -6,7 +6,7 @@
 "forceUpdate": false,
 "appUrl": "https://play.google.com/store/apps/details?id=ocr.whatsapp.direct.app",
    "whatNew":"1. Perbaikan bug\n2. Fitur bagus",
-  "showWhatNew":true
+  "showWhatNew":false
 },
 "ios": {
 "version": "1.0.1",

@@ -12,7 +12,7 @@
 "version": "1.0.1",
 "toastMsg": "Tersedia versi terbaru",
 "dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
-"forceUpdate": true,
+"forceUpdate": false,
 "appUrl": "https://apps.apple.com/us/app/wa-direct-w-o-save-w-o-type/id6446899446",
    "whatNew":"1. Perbaikan bug\n2. Fitur bagus",
   "showWhatNew":true

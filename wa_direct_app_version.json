@@ -3,7 +3,7 @@
 "version": "1.0.4",
 "toastMsg": "Tersedia versi terbaru",
 "dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
-"forceUpdate": true,
+"forceUpdate": false,
 "appUrl": "https://play.google.com/store/apps/details?id=ocr.whatsapp.direct.app",
    "whatNew":"1. Peningkatan Performa Aplikasi\n2. Penambahan Fitur Take Picture from Gallery dan Kamera\n3. Terdapat pilihan opsi whatsapp business",
   "showWhatNew":true

@@ -1,6 +1,6 @@
 {
 "android": {
-"version": "1.0.4",
+"version": "1.0.5",
 "toastMsg": "Tersedia versi terbaru",
 "dialogMsg": "Tersedia versi terbaru, Silahkan lakukan pembaruan aplikasi",
 "forceUpdate": false,
